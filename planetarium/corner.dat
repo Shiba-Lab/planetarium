@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <i_corner x="536.0" y="451.0"/>
+  <i_corner x="38.0" y="332.0"/>
+  <i_corner x="73.0" y="22.0"/>
+  <i_corner x="576.0" y="53.0"/>
+  <o_corner x="0.0" y="0.0"/>
+  <o_corner x="2560.0" y="0.0"/>
+  <o_corner x="2560.0" y="1440.0"/>
+  <o_corner x="0.0" y="1440.0"/>
+</data>

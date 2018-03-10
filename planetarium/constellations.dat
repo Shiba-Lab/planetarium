@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <constellations>
+    <constellation>
+      <tuple a="7354" b="5377"/>
+    </constellation>
+    <constellation>
+      <tuple a="6334" b="2239"/>
+      <tuple a="7762" b="6334"/>
+      <tuple a="4834" b="9687"/>
+    </constellation>
+    <constellation>
+      <tuple a="6745" b="5286"/>
+      <tuple a="5286" b="4419"/>
+      <tuple a="4419" b="860"/>
+      <tuple a="860" b="1540"/>
+    </constellation>
+    <constellation>
+      <tuple a="2204" b="553"/>
+      <tuple a="553" b="8634"/>
+      <tuple a="8634" b="8726"/>
+    </constellation>
+  </constellations>
+</data>
